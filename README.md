@@ -12,7 +12,7 @@ es un proyecto de análisis de datos y generación de modelos de machine learnin
 ### 1. Clon del repositorio y creación de un ambiente virtual
 Clona este repositorio en tu máquina local:
 ```bash
-git clone https://github.com/adrianaAarias/diabetes-classification.git
+git clone https://github.com/adrianaAarias/malignant-tumors-classification.git
 cd your-repository
 python -m venv .venv
 ```
